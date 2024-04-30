@@ -5,8 +5,8 @@ This is the code repository for Django 4 by Example, written by Antonio Melé.
 
 ## Requirements
 
--Python==3.12.2
--Django==4.2
+- Python==3.12.2
+- Django==4.2
 
 ## Django Projects
 
