@@ -23,5 +23,5 @@ This is the code repository for Django 4 by Example, written by Antonio Melé.
   - Implement a full-text search engine using PostgreSQL
   
 ## Command line for the terminal
-> pip install -r requirements.txt
-> cd mysite: python manage.py runserver
+- > pip install -r requirements.txt
+- > cd mysite: python manage.py runserver
